@@ -1,0 +1,5 @@
+- Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). Learning Word Vectors for Sentiment Analysis. Proceedings of ACL-HLT 2011, 142–150. https://aclanthology.org/P11-1015/
+- Pang, B., Lee, L., & Vaithyanathan, S. (2002). Thumbs up? Sentiment Classification using Machine Learning Techniques. EMNLP 2002, 79–86. https://aclanthology.org/W02-1011/
+- Pang, B., & Lee, L. (2004). A Sentimental Education: Sentiment Analysis Using Subjectivity. ACL 2004, 271–278. https://www.cs.cornell.edu/home/llee/papers/cutsent.home.html
+- Stanford AI Lab. Large Movie Review Dataset (IMDb/aclImdb). https://ai.stanford.edu/~amaas/data/sentiment/
+- scikit-learn developers. Working with Text Data / Feature Extraction. https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
